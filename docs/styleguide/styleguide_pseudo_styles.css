@@ -1,0 +1,21 @@
+a.pseudo-class-active,
+a.pseudo-class-hover {
+  outline: 0;
+}
+
+a.pseudo-class-active,
+a.pseudo-class-hover {
+  outline: 0;
+}
+
+a.pseudo-class-hover {
+  color: #31b1ff;
+}
+
+header.header nav.header-menu > .list > .item.pseudo-class-hover > .link {
+  color: #31b1ff;
+}
+
+header.header nav.header-menu > .list > .item.pseudo-class-hover > .link.-login {
+  background-color: #31b1ff;
+}
